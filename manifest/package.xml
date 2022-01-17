@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ChildObject__c</members>
+        <members>ParentObject__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ChildObject__c.ParentObject__c</members>
+        <members>ChildObject__c.Relationship_Age__c</members>
+        <members>ParentObject__c.HierarchyTitle__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>ChildObject__c</members>
+        <members>ParentObject__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>ChildObject__c-Child Object Layout</members>
+        <members>ParentObject__c.Parent Object Layout</members>
+        <name>Layout</name>
+    </types>
+    <version>52.0</version>
+</Package>
