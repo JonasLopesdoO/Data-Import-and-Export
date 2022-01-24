@@ -15,8 +15,12 @@
                 <field>ParentObject__c</field>
             </layoutItems>
             <layoutItems>
+                <behavior>Required</behavior>
+                <field>RelationshipAge__c</field>
+            </layoutItems>
+            <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Relationship_Age__c</field>
+                <field>WhoIsYourFather__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

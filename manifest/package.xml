@@ -21,5 +21,17 @@
         <members>ParentObject__c.Parent Object Layout</members>
         <name>Layout</name>
     </types>
+    <types>
+        <members>Contact</members>
+        <name>Workflow</name>
+    </types>
+    <types>
+        <members>Contact.Update_First_Name</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
+        <members>Contact.Update First Name</members>
+        <name>WorkflowRule</name>
+    </types>
     <version>52.0</version>
 </Package>
