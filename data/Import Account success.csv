@@ -1,0 +1,11 @@
+NAME,RATING,TYPE,ANNUALREVENUE,CUSTOMERPRIORITY__C
+Account1,Hot,Prospect,1000000,High
+Account2,Warm,Customer - Direct,500000,Low
+Account3,Cold,Customer - Channel,250000,Medium
+Account4,Hot,Prospect,1000000,High
+Account5,Warm,Customer - Direct,500000,Low
+Account6,Cold,Customer - Channel,250000,Medium
+Account7,Hot,Prospect,1000000,High
+Account8,Warm,Customer - Direct,500000,Low
+Account9,Cold,Customer - Channel,250000,Medium
+Account10,Hot,Prospect,125000,High
